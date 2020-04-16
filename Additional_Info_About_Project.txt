@@ -1,0 +1,11 @@
+Current Project::
+ToDoList in react and bootstrap
+->create,edit,delete to do list  
+
+
+
+Technologies used ::
+a.) bootstrap instead of custom css
+b.)uuid
+
+command is--> npm install bootstrap uuid --save.
