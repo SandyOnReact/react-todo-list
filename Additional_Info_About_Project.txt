@@ -7,5 +7,7 @@ ToDoList in react and bootstrap
 Technologies used ::
 a.) bootstrap instead of custom css
 b.)uuid
+c.)Extension in VSCode used:: ES7 React/Redux/GraphQl/React-Native.
 
 command is--> npm install bootstrap uuid --save.
+
